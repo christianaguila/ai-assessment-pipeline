@@ -8,7 +8,7 @@ from payment to report delivery with zero human involvement.
 ## How It Works
 1. Client completes payment via Stripe
 2. System sends confirmation email with Typeform assessment link
-3. Client submits 32-question assessment form
+3. Client submits the assessment form
 4. Claude AI generates a personalized business assessment report
 5. Report is converted to PDF automatically
 6. Client receives PDF download link via email within minutes
