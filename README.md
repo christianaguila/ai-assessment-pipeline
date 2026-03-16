@@ -1,5 +1,8 @@
 # Automated Client Assessment and Report Delivery Pipeline
 
+## Demo
+[Watch the walkthrough video](https://www.loom.com/share/d132de7da9a6424f9c8d6940885c8764)
+
 ## Problem Solved
 Assessment reports were being generated and delivered manually, 
 taking hours per client. This system automates the entire process 
